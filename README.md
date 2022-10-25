@@ -43,7 +43,7 @@
 
   <br />
   
-  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Jake186&theme=react)  
+  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Jake186&theme=radical)  
   
 ![Profile views](https://gpvc.arturio.dev/Jake186) 
 
