@@ -9,7 +9,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20When%20I%20Realize,%20I%20Learn;Like%20Gandhi%20said,;%20Learn%20as%20If%20you%20Will%20live%20forever,;and%20Live%20as%20if%20it%20is%20your%20last%20day&font=Fira%20Code&center=true&width=440&height=45&color=7b2e3f&vCenter=true&size=22">
 </p>
 
-<img align="right" alt="GIF" src="./access_granted.gif" width="350" />
+<img align="right" alt="GIF" src="./access_granted.gif" width="500" />
 
 ##
 
