@@ -10,7 +10,7 @@ Very Focused Individual, with much interest to Learn New things in this Modern T
 
 <img align="right" alt="GIF" src="./access_granted.gif" width="350" />
 
-## ️ Languages and tools
+##
 
 
 ##### Web Development
