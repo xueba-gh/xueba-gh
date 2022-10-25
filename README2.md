@@ -19,15 +19,15 @@ Here are some ideas to get you started:
 <h3 aligng="center"> Very Focused Individual, with much interest to Learn New things in this Modern Tech World. </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20When%20I%20Realize,%20I%20Learn;Like%20Gandhi%20said,;Learn%20as%20If%20you'll%20live%20forever,and%20Live%20as%20if%20it%20is%20your%20last%20day&font=Fira%20Code&center=true&width=440&height=45&color=7b2e3f&vCenter=true&size=22">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20When%20I%20Realize,%20I%20Learn;Like%20Gandhi%20said,;%20Learn%20as%20If%20you%20Will%20live%20forever,;and%20Live%20as%20if%20it%20is%20your%20last%20day&font=Fira%20Code&center=true&width=440&height=45&color=7b2e3f&vCenter=true&size=22">
 </p>
 
 	
-<img align="left" alt="GIF" src="./access_granted.gif" width="250" />
+<img align="right" alt="GIF" src="./access_granted.gif" width="300" />
 
-         [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-ato-kwamena-aidoo)
-         [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/aidoo_kwamena)
-         [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/KWAMENA_11)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-ato-kwamena-aidoo)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/aidoo_kwamena)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/KWAMENA_11)
    
    
 
