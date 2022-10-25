@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Kwamena_07-Jake186%20&fontSize=80&animation=fadeIn&fontAlignY=26&desc=Everyone%20Is%20A%20Proponent%20Of%20Strong%20Encryption%20-%20Dorithy%20Denning!&descAlignY=45&descAlign=50)
-### Hi, there 👋, my name is `Kwamena Aidoo`
-### Last Seen :eyes: Thursday, October 13, 11:09 AM UTC
+<h1 align="center"> Hello, there 👋, my name is Kwamena Aidoo </h1>
 
-Very Focused Individual, with much interest to Learn New things in this Modern Tech World. 
+
+<h3 aligng="center"> Very Focused Individual, with much interest to Learn New things in this Modern Tech World. </h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20When%20I%20Realize,%20I%20Learn;Like%20Gandhi%20said,;Learn%20as%20If%20you'll%20live%20forever,and%20Live%20as%20if%20it%20is%20your%20last%20day&font=Fira%20Code&center=true&width=440&height=45&color=7b2e3f&vCenter=true&size=22">
