@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=LEARNING%20MOOD%20&fontSize=80&animation=fadeIn&fontAlignY=26&desc=Everyone%20Is%20A%20Proponent%20Of%20Strong%20Encryption%20-%20Dorithy%20Denning!&descAlignY=45&descAlign=50)
-<h1 align="center"> Jake186 - PROFILE  </h1>
+<h1 align="center">     Jake186  </h1>
 
 <!--<h2 align="center"> Last Seen :watch: Thursday, October 13, 11:09 AM UTC </h2> -->
 
