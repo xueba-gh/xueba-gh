@@ -46,6 +46,7 @@
   ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Jake186&theme=radical)  
   
 ![Profile views](https://gpvc.arturio.dev/Jake186) 
+	
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&desc=I%20will%20Always%20remember%20&fontSize=80&animation=fadeIn&fontAlignY=26&descAlignY=95&descAlign=95)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&desc=I%20will%20Always%20remember%20&fontSize=80&animation=fadeIn&fontAlignY=26&descAlignY=95&descAlign=80)
 
