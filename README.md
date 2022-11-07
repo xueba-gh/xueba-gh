@@ -30,21 +30,20 @@
    
    
 
-### My GitHub Status (Click on the Arrow):
+	
+  <summary><b> 💥💥 Github Streaks 💥💥</b></summary>
 
-<details>	
-  <summary><b>⚡👨🏾‍💻🌈👨🏾‍💻🌈👨🏾‍💻⚡ Github Stats</b></summary>
+  <br />
+  
+  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Jake186&theme=radical)  
+	
+   
+  <summary><b> ⚡👨🏾‍💻🌈👨 Github Stats 👨🏾‍💻🌈👨🏾‍💻⚡ </b></summary>
 
   <br />  
   
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=Jake186&theme=radical)](https://github.com/Jake186/github-readme-stats)
 </details>
-	
-  <summary><b> 💥 Github Streaks</b></summary>
-
-  <br />
-  
-  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Jake186&theme=radical)  
   
 ![Profile views](https://gpvc.arturio.dev/Jake186) 
 	
