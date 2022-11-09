@@ -49,7 +49,7 @@
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=Jake186&theme=radical)](https://github.com/Jake186/github-readme-stats)
 	
 	
-<img src="https://activity-graph.herokuapp.com/graph?username=Jake186&bg_color=radical&color=E32D39&line=DD0000&point=ffffff&area=true&hide_border=true"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=Jake186&bg_color=radical&color=E32D39&line=DD0000&point=ffffff&area=true&hide_border=false"/>
 <br/>
 </details>
   
