@@ -33,9 +33,9 @@
 
 	
 	
-	
+
 <br /> <summary><b> 👨🏾‍💻🌈👨🏾‍💻⚡Most Used Languages 👨🏾‍💻🌈👨🏾‍💻⚡</b></summary> <br />
-	 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Jake186&hide=PHP,Javascript,Mustache,TypeScript,Brainfuck,c&theme=tokyonight&hide_border=true&line_height=27&line_width=27"> <br>
+	 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Jake186&layout=compact&hide=Brainfuck&theme=tokyonight&hide_border=true&line_height=27&line_width=27"> <br>
   <summary><b> 💥💥 Github Streaks 💥💥</b></summary>
   <br />
   
@@ -57,7 +57,7 @@
 
 												             
 ![Profile views align="center"](https://gpvc.arturio.dev/Jake186)                      
-I Will Always Remember.
+<h4> I will always remember. </h4>
 					      
 ![Jake186](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
 <!--
