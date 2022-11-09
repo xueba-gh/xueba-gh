@@ -35,7 +35,7 @@
 	
 	
 <br /> <summary><b> 👨🏾‍💻🌈👨🏾‍💻⚡Most Used Languages 👨🏾‍💻🌈👨🏾‍💻⚡</b></summary> <br />
-	 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Jake186&hide=PHP,Javascript,Mustache,Brainfuck,c&theme=tokyonight&hide_border=true&line_height=27&line_width=27"> <br>
+	 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Jake186&hide=PHP,Javascript,Mustache,TypeScript,Brainfuck,c&theme=tokyonight&hide_border=true&line_height=27&line_width=27"> <br>
   <summary><b> 💥💥 Github Streaks 💥💥</b></summary>
   <br />
   
