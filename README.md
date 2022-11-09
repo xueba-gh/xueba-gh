@@ -47,11 +47,16 @@
   <br />  
   
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=Jake186&theme=radical)](https://github.com/Jake186/github-readme-stats)
+	
+<img src="https://activity-graph.herokuapp.com/graph?username=Jake186&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
+<br/>
 </details>
   
-![Profile views](https://gpvc.arturio.dev/Jake186) 
+
+
 												             
 					      I Will Always Remember.
+![Profile views align="center"](https://gpvc.arturio.dev/Jake186) 					      
 ![Jake186](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
 <!--
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&desc=I%20will%20Always%20remember%20&fontSize=80&animation=fadeIn&fontAlignY=26&descAlignY=95&descAlign=87) -->
