@@ -10,9 +10,9 @@
 </p>
 	
 
-<img align="right" alt="GIF" src="./access_granted.gif" width="400" />
+<!--<img align="right" alt="GIF" src="./access_granted.gif" width="400" /> -->
 
-##
+
 
 
 ##### Favorite Languages : 
@@ -24,15 +24,10 @@
  
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-ato-kwamena-aidoo)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/jacob_aidoo_1)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-ato-kwamena-a-------)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/KWAMENA_11)
-   
-   
-
-
-	
-	
+   	
 
 <br /> <summary><b> 👨🏾‍💻🌈👨🏾‍💻⚡Most Used Languages 👨🏾‍💻🌈👨🏾‍💻⚡</b></summary> <br />
 	 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Jake186&layout=compact&hide=Brainfuck&theme=tokyonight&hide_border=true&line_height=27&line_width=27"> <br>
@@ -53,8 +48,6 @@
 <br/>
 </details>
   
-
-
 												             
 ![Profile views align="center"](https://gpvc.arturio.dev/Jake186)                      
 <h4> I will always remember. </h4>
@@ -62,4 +55,3 @@
 ![Jake186](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
 <!--
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&desc=I%20will%20Always%20remember%20&fontSize=80&animation=fadeIn&fontAlignY=26&descAlignY=95&descAlign=87) -->
-
