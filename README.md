@@ -34,7 +34,8 @@
 	
 	
 	
-	
+<br /> <summary><b> 👨🏾‍💻🌈👨🏾‍💻⚡Most Used Languages 👨🏾‍💻🌈👨🏾‍💻⚡</b></summary> <br />
+	 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Jake186&hide=PHP,Javascript,Mustache,Brainfuck,c&theme=tokyonight&hide_border=true&line_height=27&line_width=27"> <br>
   <summary><b> 💥💥 Github Streaks 💥💥</b></summary>
 
   <br />
@@ -47,8 +48,7 @@
   <br />  
   
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=Jake186&theme=radical)](https://github.com/Jake186/github-readme-stats)
-	<br /> <summary><b> 👨🏾‍💻🌈👨🏾‍💻⚡Most Used Languages 👨🏾‍💻🌈👨🏾‍💻⚡</b></summary> <br />
-	 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Jake186&hide=PHP,Javascript,Mustache,Brainfuck,c&theme=tokyonight&hide_border=true&line_height=27&line_width=27">
+	
 	
 <img src="https://activity-graph.herokuapp.com/graph?username=Jake186&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
 <br/>
