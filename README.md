@@ -44,19 +44,21 @@
   <summary><b> ⚡👨🏾‍💻🌈👨 Github Stats 👨🏾‍💻🌈👨🏾‍💻⚡ </b></summary>
 
   <br /> 
-	
+
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=Jake186&theme=radical)](https://github.com/Jake186/github-readme-stats)
-		
+<!--			
 <img src="https://activity-graph.herokuapp.com/graph?username=Jake186&bg_color=radical&color=E32D39&line=DD0000&point=ffffff&area=true&hide_border=false"/>
-<br/>
+<br/> -->
 </details>
   
 ##
 
-![Profile views align="center"](https://gpvc.arturio.dev/Jake186)                      
-<h4> I will always remember. </h4>
+                    
+
 <!--
-##					      
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&desc=I%20will%20Always%20remember%20&fontSize=80&animation=fadeIn&fontAlignY=26&descAlignY=95&descAlign=87) 
+##
+	   ![Profile views align="center"](https://gpvc.arturio.dev/Jake186) --> 
 ![Jake186](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&desc=I%20will%20Always%20remember%20&fontSize=80&animation=fadeIn&fontAlignY=26&descAlignY=95&descAlign=87) -->
