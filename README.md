@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=BREAK%20TIME%20IS%20OVER%20&fontSize=80&animation=fadeIn&fontAlignY=26&desc=Everyone%20Is%20A%20Proponent%20Of%20Strong%20Encryption%20-%20Dorithy%20Denning!&descAlignY=45&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=IT'S%20TIME%20&fontSize=80&animation=fadeIn&fontAlignY=26&desc=Everyone%20Is%20A%20Proponent%20Of%20Strong%20Encryption%20-%20Dorithy%20Denning!&descAlignY=45&descAlign=50)
 
 
 <p align="center">
