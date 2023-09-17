@@ -13,6 +13,6 @@
 
 </details>
   
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&desc=®Valeriana%20Stormrider&fontSize=80&animation=fadeIn&fontAlignY=26&descAlignY=95&descAlign=87) 
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&desc=®Kwamena%&fontSize=80&animation=fadeIn&fontAlignY=26&descAlignY=95&descAlign=87) 
 
 
