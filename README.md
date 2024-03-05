@@ -2,13 +2,14 @@
 
 
 <p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Xueba.png" alt="TryHackMe">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"> <img src="https://readme-typing-svg.herokuapp.com/?lines=%20Like%20Gandhi%20said,;%20%20Learn%20as%20If%20you%20Will%20live%20forever,;and%20Live%20as%20if%20it%20is%20your%20last%20day;%20No%20Great%20Man,;%20has%20Changed%20the%20Course%20of%20History;%20Without%20being%20pushed%20to%20the%20limits;%20OF%20HIS%20POTENTIAL!;%20Ask%20yourself:%20Which%20is%20worse?;%20failing%20or%20never%20trying?%20&font=Fira%20Code&center=true&width=440&height=45&color=white&vCenter=true&size=22">
 </p>
 
 
   <br />
   
-<!--  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Jake186&theme=maroongold)  -->
+<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=cyber-kwamena&theme=maroongold) -->
   
 
 </details>
